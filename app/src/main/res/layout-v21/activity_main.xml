@@ -26,22 +26,23 @@
             android:orientation="vertical">
 
             <TextView
-                style="@style/title"
                 android:id="@+id/textView2"
+                style="@style/title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="TextView"
+                android:text="Amazon"
 
                 android:textSize="18sp"
                 android:textStyle="bold"
                 tools:text="Amazon" />
 
             <TextView
-                style="@style/title"
                 android:id="@+id/textView"
+                style="@style/title"
                 android:layout_width="match_parent"
                 android:layout_height="47dp"
 
+                android:text="Plastic Chair"
                 android:textSize="18sp"
                 android:textStyle="bold"
                 tools:text="Plastic Chair" />
